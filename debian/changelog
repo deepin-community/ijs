@@ -1,3 +1,9 @@
+ijs (0.35-16) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Thu, 10 Sep 2026 17:38:09 +0800
+
 ijs (0.35-15) unstable; urgency=medium
 
   * Rename patches, and document patch micro policy in source.
